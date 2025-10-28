@@ -1,4 +1,4 @@
-# ING Hubs Türkiye Datathon 2024 - ML Model
+# ING Hubs Türkiye Datathon 2025 - ML Model
 
 Bu repository, ING Hubs Türkiye Datathon 2024 için geliştirilmiş makine öğrenimi modelini ve submission dosyasını içerir. Model, yarışma verilerini kullanarak churn olasılıklarını tahmin etmek için geliştirilmiştir.
 
@@ -47,7 +47,7 @@ INGHubsDatathon-MLModel/
 
 ## 🛠️ Kullanılan Teknolojiler
 
-- Python 3.x  
+- Python 3.10  
 - Pandas, NumPy, Scikit-learn  
 - Matplotlib / Seaborn (veri görselleştirme)  
 - Google Colab (model geliştirme ortamı)  
